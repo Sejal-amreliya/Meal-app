@@ -22,7 +22,7 @@ This is a web application that allows users to search for and explore various me
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/Sejal-amreliya/Meal-app
 
 2. Open the index.html file in a web browser.
 
